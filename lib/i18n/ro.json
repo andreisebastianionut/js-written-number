@@ -1,7 +1,7 @@
 {
   "useLongScale": false,
   "baseSeparator": "-",
-  "unitSeparator": "",
+  "unitSeparator": "si",
   "base": {
     "0": "zero",
     "1": "unu",
@@ -31,13 +31,11 @@
     "70": "saptezeci",
     "80": "optzeci",
     "90": "nouazeci",
-    "100": "unasuta",
+    "100": "suta",
     "200": "douasute",
     "300": "treisute",
-     "400": "patrusute",
-     "1000": "unamie",
-    "2000": "douamii",
-        "3000": "treimii",
+    "400": "patrusute",
+
   },
   "units" : [
     {
@@ -63,7 +61,8 @@
   "unitExceptions": {
     "100": "unasuta",
     "200": "douasute",
-    "300": "treisute",
+     "1000": "unamie",
+    "2000": "douamii",
     "10000": "zecemii",
     "20000": "douazecimii",
     "100000": "unasutamii",
