@@ -35,12 +35,12 @@
     "200": "douasute",
     "300": "treisute",
     "400": "patrusute",
-
+    "1000": "mie"
   },
   "units" : [
     {
-      "singular": "RON",
-      "plural": "RON",
+      "singular": "suta",
+      "plural": "sute",
       "avoidInNumberPlural": true,
       "avoidPrefixException": [1]
     },
@@ -51,7 +51,7 @@
     },
     {
       "singular": "milion",
-      "plural": "millions"
+      "plural": "milioane"
     },
     {
       "singular": "miliard",
