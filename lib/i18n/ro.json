@@ -1,0 +1,72 @@
+{
+  "useLongScale": false,
+  "baseSeparator": "-",
+  "unitSeparator": "",
+  "base": {
+    "0": "zero",
+    "1": "unu",
+    "2": "doi",
+    "3": "trei",
+    "4": "patru",
+    "5": "cinci",
+    "6": "sase",
+    "7": "sapte",
+    "8": "opt",
+    "9": "noua",
+    "10": "zece",
+    "11": "unsprezece",
+    "12": "doisprezece",
+    "13": "treisprezece",
+    "14": "paisprezece",
+    "15": "cincisprezece",
+    "16": "saiesprezece",
+    "17": "saptesprezece",
+    "18": "optsprezece",
+    "19": "nouasprezece",
+    "20": "douazeci",
+    "30": "treizeci",
+    "40": "patruzeci",
+    "50": "cincizeci",
+    "60": "saizeci",
+    "70": "saptezeci",
+    "80": "optzeci",
+    "90": "nouazeci",
+    "100": "unasuta",
+    "200": "douasute",
+    "300": "treisute",
+     "400": "patrusute",
+     "1000": "unamie",
+    "2000": "douamii",
+        "3000": "treimii",
+  },
+  "units" : [
+    {
+      "singular": "RON",
+      "plural": "RON",
+      "avoidInNumberPlural": true,
+      "avoidPrefixException": [1]
+    },
+    {
+      "singular": "mie",
+      "plural": "mii"
+      "avoidPrefixException": [1]
+    },
+    {
+      "singular": "milion",
+      "plural": "millions"
+    },
+    {
+      "singular": "miliard",
+      "plural": "miliarde"
+    },
+  ],
+  "unitExceptions": {
+    "100": "unasuta",
+    "200": "douasute",
+    "300": "treisute",
+    "10000": "zecemii",
+    "20000": "douazecimii",
+    "100000": "unasutamii",
+    "200000": "douasutemii"
+  }
+}
