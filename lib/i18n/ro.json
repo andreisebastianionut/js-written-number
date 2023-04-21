@@ -1,7 +1,7 @@
 {
   "useLongScale": false,
-  "baseSeparator": "-",
-  "unitSeparator": "si",
+  "baseSeparator": "si",
+  "unitSeparator": "",
   "base": {
     "0": "zero",
     "1": "unu",
